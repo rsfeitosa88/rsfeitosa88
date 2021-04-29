@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rsfeitosa88
+- 👋 Hi, I’m Rodolfo Feitosa 
 - 👀 I’m interested in movies, games, series, coffee, bbb and stay safe
 - 🌱 I’m currently learning React-Native (Front-End)
 - 📫 How to reach me? 
